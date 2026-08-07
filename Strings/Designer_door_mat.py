@@ -9,7 +9,7 @@ for i in range(1,row,2):
     pattern=".|."*i
     print(pattern.center(column,"-"))
 
-#centre
+#center
 print("WELCOME".center(column,"-"))
 
 
